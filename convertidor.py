@@ -8,3 +8,4 @@
 """ Desde la rama main o master subir al nuevo repositorio de github llamado conversor_de_unidades. (1 punto) """
 
 """ Recuerda que cada uno de los módulos, deben incluir el bloque if __name__ == "__main__" para sus pruebas en cada módulo. """
+#Stephanie Aguero Ramirez
